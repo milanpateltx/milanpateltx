@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @milanpateltx
+- 👀 I’m interested in data science/machine learning, and its applications in product management
+- 📫 How to reach me: milanpateltx@gmail.com
